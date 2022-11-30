@@ -1,10 +1,10 @@
 export const COLORS = {
   primary: "#001F2D",
   secondary: "#4D626C",
-
+  emerald: "#4D9078",
   white: "#FFF",
   gray: "#74858C",
-};
+}
 
 export const SIZES = {
   base: 8,
@@ -13,7 +13,7 @@ export const SIZES = {
   medium: 16,
   large: 18,
   extraLarge: 24,
-};
+}
 
 export const FONTS = {
   bold: "InterBold",
@@ -21,7 +21,7 @@ export const FONTS = {
   medium: "InterMedium",
   regular: "InterRegular",
   light: "InterLight",
-};
+}
 
 export const SHADOWS = {
   light: {
@@ -57,4 +57,4 @@ export const SHADOWS = {
 
     elevation: 14,
   },
-};
+}
